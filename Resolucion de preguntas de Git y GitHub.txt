@@ -1,0 +1,51 @@
+Resolución de preguntas de Git y GitHub
+
+1.	¿Qué es Git? R// Git es un sistema de control de versiones distribuido. Esencialmente, es un programa que rastrea los 
+			cambios en tus archivos a lo largo del tiempo, permitiéndote volver a versiones anteriores, colaborar con otros y gestionar 
+			la complejidad del desarrollo de software.
+
+2.	¿Cuáles son los comandos más importantes y para que sirven? 
+R// 
+•	git init: Inicializa un nuevo repositorio Git en un directorio.
+•	git add: Agrega archivos desde el directorio de trabajo al área de preparación (staging area), listos para ser incluidos en el próximo commit.
+•	git status: Muestra el estado del directorio de trabajo y del área de preparación, indicando qué archivos han sido modificados, 
+                    cuáles están en el área de preparación y cuáles no están siendo rastreados.
+•	git commit: Guarda los cambios del área de preparación en el repositorio, creando una nueva versión (snapshot) del proyecto.
+•	git push: Envía los commits desde tu repositorio local a un repositorio remoto, como GitHub.
+•	git pull: Recibe los cambios desde un repositorio remoto y los integra en tu repositorio local.
+•	git clone: Crea una copia local de un repositorio remoto existente.
+
+
+3.	¿Cuál es la diferencia entre Git y GitHub?
+R// 
+•	Git es el sistema de control de versiones en sí, el software que rastrea los cambios en tus archivos. 
+•	GitHub, por otro lado, es una plataforma de alojamiento de repositorios Git en la nube. Actúa como un servicio que te 
+	permite almacenar tus repositorios Git en línea, colaborar con otros desarrolladores y gestionar proyectos de software de manera centralizada.
+
+4.	Enumere los comandos para subir cambios a un repositorio.
+
+1)	git add . (o git add <nombre_archivo>): Para agregar los archivos modificados al área de preparación.
+2)	git commit -m "Mensaje descriptivo": Para guardar los cambios en tu repositorio local con un mensaje que explique lo que has hecho.
+3)	git push origin master (o git push): Para subir los commits a tu repositorio remoto en GitHub.
+
+
+
+5.	¿Qué es una branch? R// Una "branch" (rama) en Git es una línea de desarrollo paralela dentro de un repositorio. 
+				Permite trabajar en nuevas funcionalidades o correcciones sin afectar la línea de desarrollo principal (generalmente "master" o "main").
+
+6.	¿Cuál es la diferencia entre un repositorio local y un repositorio remoto? 
+R// 
+•	Repositorio local: Es una copia del repositorio que reside en tu computadora. Aquí es donde realizas la 
+			   mayoría de tus trabajos, como modificar archivos, agregar commits y crear branches.
+•	Repositorio remoto: Es una versión del repositorio que se encuentra alojada en un servidor, como GitHub. 
+			    Sirve como un punto centralizado para la colaboración, permitiendo que múltiples desarrolladores compartan y sincronicen sus cambios.
+
+7.	Cuáles son los comandos básicos para:
+•	Inicializar un repositorio: git init
+•	Descargar un repositorio: git clone <url_del_repositorio>
+•	Agregar archivos a un repositorio local: git add <nombre_archivo> 
+•	Confirmar cambios en un repositorio local: git commit -m “mensaje descriptivo”
+•	Subir cambios a un repositorio remoto: git push origin master o git push (si ya se ha configurado el repositorio remoto) 
+•	Revertir cambios en una branch: 
+		Para descartar cambios locales antes de hacer commit: git checkout -- <nombre_archivo>
+		Para revertir un commit específico: git revert <hash_del_commit>
