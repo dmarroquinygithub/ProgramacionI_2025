@@ -1,3 +1,23 @@
+Resumen del video
+
+El video nos presenta un curso práctico sobre Git y GitHub, diseñado para principiantes. Nos empieza explicando qué es Git, 
+sabemos que git es un sistema de control de versiones esencial para desarrolladores, que permite gestionar y rastrear 
+cambios en proyectos de software. Se menciona que Git fue creado por Linus Torvalds para manejar el desarrollo del kernel 
+de Linux y que es una herramienta indispensable en el desarrollo moderno.
+
+El curso enseña desde la instalación de Git hasta el uso de comandos básicos. Se introducen conceptos como el directorio de 
+trabajo, el área de preparación y el repositorio, explicando cómo se gestionan los archivos en cada uno de estos estados. 
+Se enseña a inicializar un repositorio con git init, agregar archivos con git add, y crear un snapshot del proyecto con git commit.
+
+Además, se menciona cómo trabajar con ramas usando git branch y git checkout, permitiendo a los desarrolladores experimentar 
+con diferentes versiones del código sin afectar la versión principal. También se explica cómo ignorar archivos y carpetas no 
+deseados mediante un archivo .gitignore.
+
+El video incluye una introducción a GitHub, una plataforma para alojar repositorios de código, donde los desarrolladores 
+pueden colaborar y compartir su trabajo. Se muestra cómo crear un nuevo repositorio en GitHub y cómo subir el código 
+local al repositorio remoto utilizando comandos como git push.
+
+
 Resolución de preguntas de Git y GitHub
 
 1.	¿Qué es Git? R// Git es un sistema de control de versiones distribuido. Esencialmente, es un programa que rastrea los 
