@@ -1,0 +1,14 @@
+C:\Users\darvi\Desktop\Cursos UMG 3er Semestre\Programacion I\Tareas en C#\tarea3.4\tarea3.4\obj\Debug\net8.0\tarea3.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darvi\Desktop\Cursos UMG 3er Semestre\Programacion I\Tareas en C#\tarea3.4\tarea3.4\obj\Debug\net8.0\tarea3.4.AssemblyInfoInputs.cache
+C:\Users\darvi\Desktop\Cursos UMG 3er Semestre\Programacion I\Tareas en C#\tarea3.4\tarea3.4\obj\Debug\net8.0\tarea3.4.AssemblyInfo.cs
+C:\Users\darvi\Desktop\Cursos UMG 3er Semestre\Programacion I\Tareas en C#\tarea3.4\tarea3.4\obj\Debug\net8.0\tarea3.4.csproj.CoreCompileInputs.cache
+C:\Users\darvi\Desktop\Cursos UMG 3er Semestre\Programacion I\Tareas en C#\tarea3.4\tarea3.4\bin\Debug\net8.0\tarea3.4.exe
+C:\Users\darvi\Desktop\Cursos UMG 3er Semestre\Programacion I\Tareas en C#\tarea3.4\tarea3.4\bin\Debug\net8.0\tarea3.4.deps.json
+C:\Users\darvi\Desktop\Cursos UMG 3er Semestre\Programacion I\Tareas en C#\tarea3.4\tarea3.4\bin\Debug\net8.0\tarea3.4.runtimeconfig.json
+C:\Users\darvi\Desktop\Cursos UMG 3er Semestre\Programacion I\Tareas en C#\tarea3.4\tarea3.4\bin\Debug\net8.0\tarea3.4.dll
+C:\Users\darvi\Desktop\Cursos UMG 3er Semestre\Programacion I\Tareas en C#\tarea3.4\tarea3.4\bin\Debug\net8.0\tarea3.4.pdb
+C:\Users\darvi\Desktop\Cursos UMG 3er Semestre\Programacion I\Tareas en C#\tarea3.4\tarea3.4\obj\Debug\net8.0\tarea3.4.dll
+C:\Users\darvi\Desktop\Cursos UMG 3er Semestre\Programacion I\Tareas en C#\tarea3.4\tarea3.4\obj\Debug\net8.0\refint\tarea3.4.dll
+C:\Users\darvi\Desktop\Cursos UMG 3er Semestre\Programacion I\Tareas en C#\tarea3.4\tarea3.4\obj\Debug\net8.0\tarea3.4.pdb
+C:\Users\darvi\Desktop\Cursos UMG 3er Semestre\Programacion I\Tareas en C#\tarea3.4\tarea3.4\obj\Debug\net8.0\tarea3.4.genruntimeconfig.cache
+C:\Users\darvi\Desktop\Cursos UMG 3er Semestre\Programacion I\Tareas en C#\tarea3.4\tarea3.4\obj\Debug\net8.0\ref\tarea3.4.dll
